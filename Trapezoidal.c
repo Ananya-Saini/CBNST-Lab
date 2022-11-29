@@ -8,7 +8,6 @@ int main()
 {
     int n;
     float i,a,b,sum=0,h;
-    //Input
     printf("Enter Value of a and b\n");
     scanf("%f%f",&a,&b);
     printf("Enter no. of Intervals\n");
